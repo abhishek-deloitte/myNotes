@@ -1,0 +1,18 @@
+/* NotFound.css */
+.not-found-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    color: #333;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
